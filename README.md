@@ -50,10 +50,10 @@ Data was meticulously cleaned to handle missing values, outliers, and inconsiste
 
 #### Data Modeling:
 Relationships among tables were established, creating a robust data model that allowed for seamless analysis and reporting.
-         **__Before Modeling:__**
+        -  **__Before Modeling:__**
 ![](https://github.com/EngrIBGIT/Empowering-HR-Insight-Dynamic-Dashboard-Analysis-for-Peak-Performance-at-GreenTech-Innovation/blob/main/8_NoModela.PNG)
 
-         **__After Data Modeling:__**
+        -  **__Before Modeling:__**
 ![](https://github.com/EngrIBGIT/Empowering-HR-Insight-Dynamic-Dashboard-Analysis-for-Peak-Performance-at-GreenTech-Innovation/blob/main/8_ModelRShipb.PNG)
 
 
