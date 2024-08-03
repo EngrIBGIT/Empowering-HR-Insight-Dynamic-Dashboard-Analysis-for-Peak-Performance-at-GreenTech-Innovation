@@ -1,0 +1,2 @@
+# Empowering-HR-Insight-Dynamic-Dashboard-Analysis-for-Peak-Performance-at-GreenTech-Innovation
+Gain hands-on HR Analytics experience by mastering data collection, cleaning, and modeling with Power BI. Analyze employee performance, engagement, and growth at GreenTech Innovation, understanding how these metrics impact business growth. Apply data-driven insights to real-world HR challenges, gaining valuable, transferable skills.
