@@ -1,8 +1,12 @@
 # Empowering-HR-Insight-Dynamic-Dashboard-Analysis-for-Peak-Performance-at-GreenTech-Innovation
 Hands-on HR Analytics experience by mastering data collection, cleaning, and modeling with Power BI. Analyzing employee performance, engagement, and growth at GreenTech Innovation, understanding how these metrics impact GreenTech Innovation business growth. Apply data-driven insights to real-world HR challenges, gaining valuable, transferable skills.
 
+## Introduction:
+This comprehensive HR analysis leverages data-driven insights to address the key challenges faced by GreenTech Innovation in employee performance, engagement, and growth. Utilizing Power BI, the analysis provides valuable insights and strategic recommendations to enhance HR management in a data-driven and effective manner.
+
 ## Project Focus:
 Applying data-driven insights to human resource challenges, equipping GreenTech Innovation with valuable skills transferable across industries. This analysis addresses the enhancement of employee performance, engagement, and growth. Addressing these HR challenges is crucial not only for maintaining a motivated and skilled workforce but also for sustaining the company's position as a leader in the GreenTech sector.
+
 ### Key Inquiries:
 1.	Investigate employee engagement based on factors such as education qualification, age range, gender, marital status, recruitment source, and department.
 2.	Examine the evolution of employee engagement over time.
@@ -10,6 +14,7 @@ Applying data-driven insights to human resource challenges, equipping GreenTech 
 4.	Explore employee performance in relation to education qualification, age range, gender, marital status, and department.
 5.	Analyze how employee performance changes over time.
 6.	Investigate whether a correlation can be established between performance and engagement as well as other variables.
+7.	
 ## Methodology:
 ### Data Description:
 GreenTech Innovation's employee dataset includes the following attributes:
@@ -33,15 +38,29 @@ GreenTech Innovation's employee dataset includes the following attributes:
 
 
 ## Project Scope:
-1.	Data Importation: Employee data is imported from its data source into Power BI.
-2.	Data Cleaning & Transformation: Data is cleaned and transformed within Power BI.
-3.	Data Modeling: Relationships among tables are defined based on common fields or keys (primary and foreign keys).
-4.	Data Analysis & Visualization: The dataset is analyzed, and insights are visualized in the form of dashboards and reports which are shared with stakeholders.
+#### Data Importation:
+The employee dataset from GreenTech Innovation was imported into Power BI, ensuring all relevant fields were included for comprehensive analysis.
+#### Data Cleaning & Transformation:
+Data was meticulously cleaned to handle missing values, outliers, and inconsistencies. Transformation processes included normalization, encoding categorical variables, and ensuring date formats were consistent.
+#### Data Modeling:
+Relationships among tables were established, creating a robust data model that allowed for seamless analysis and reporting.
 
-## Dashboards Produced:
-1.	HR Analytics Dashboard (Summary Page)
-2.	Employee Engagement Analysis (Engagement Page)
-3.	Employee Performance Analysis (Performance Page)
+#### Data Analysis & Visualization:
+Three primary dashboards were created to visualize key insights:
+1.	HR Analytics Dashboard: Provides a summary of overall HR metrics (Summary Page).
+
+![](https://github.com/EngrIBGIT/Empowering-HR-Insight-Dynamic-Dashboard-Analysis-for-Peak-Performance-at-GreenTech-Innovation/blob/main/Summary_DB.png)
+   
+2.	Employee Engagement Analysis: Focuses on engagement levels across various dimensions (Engagement Page).
+
+![](https://github.com/EngrIBGIT/Empowering-HR-Insight-Dynamic-Dashboard-Analysis-for-Peak-Performance-at-GreenTech-Innovation/blob/main/EmplENg_DB.png)
+   
+3.	Employee Performance Analysis: Highlights performance metrics and trends (Performance Page).
+
+![](https://github.com/EngrIBGIT/Empowering-HR-Insight-Dynamic-Dashboard-Analysis-for-Peak-Performance-at-GreenTech-Innovation/blob/main/EmpPerf_DB.png)
+
+### Link to Report:
+https://github.com/EngrIBGIT/Empowering-HR-Insight-Dynamic-Dashboard-Analysis-for-Peak-Performance-at-GreenTech-Innovation/blob/main/Empowering_HR%20Insight_Dynamic_Dashboard_Analysis.pbix
 
 ### Insights:
 1.	Education Qualification:
